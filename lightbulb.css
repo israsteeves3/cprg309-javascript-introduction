@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+button#light_off{
+    display: none;
+}
